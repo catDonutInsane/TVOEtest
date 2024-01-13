@@ -1,0 +1,11 @@
+.wrapper{
+    width: 1724px;
+    height: 768px;
+    color: white;
+    margin-bottom: 110px;
+
+}
+.card_wrapper{
+    display: flex;
+    justify-content: space-between;
+}

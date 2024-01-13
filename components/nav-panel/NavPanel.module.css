@@ -1,0 +1,27 @@
+.navpan, .wrapper, .navpan_wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 54px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .navpan{
+    height: 464px;
+    
+  }
+  .wrapper{
+    height: 960px;
+    margin-left: 55px;
+    margin-top: 40px;
+    position: sticky;
+    top:0px;
+    /* margin-right: 106px; */
+    
+  }
+  .navpan_wrapper{
+    height: 800px;  
+  }
+
+  .icon{
+    cursor: pointer;
+  }
